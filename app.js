@@ -3,7 +3,7 @@
 
 function getExchangeRates() {
     var myHeaders = new Headers();
-    myHeaders.append("apikey", "78TelXbpEsGUPvx9Gi22RIARGlznijHi");
+    myHeaders.append("apikey", "your api key");
 
 var requestOptions = {
   method: 'GET',
